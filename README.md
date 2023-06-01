@@ -1,7 +1,7 @@
 # Moire - интернет-магазин на Vue 2 + REST API
 
 ## Описание проекта
-Разработка интернет-магазина на Vue.js + REST API.<br>Этот проект мигрировал на Vue 3, ознакомиться можно по ссылке [pkhtn-vld.github.io/moire-vue3-capi](https://pkhtn-vld.github.io/moire-vue3-capi) 
+Разработка интернет-магазина на Vue.js + REST API.<br>Этот проект мигрировал на Vue 3, ознакомиться можно по ссылке [pkhtn-vld/moire-vue3-capi](https://github.com/pkhtn-vld/moire-vue3-capi) 
 
 ## Функции
 - Посмотреть список товаров по страницам
